@@ -3,4 +3,4 @@ This is a project where students (or whomever) drinks ten beers and takes a typi
 <br>
 Analyzing and optimizing patterns in how students perform worse with alchohol consumption has the potnetial to be far more interesting and relatable than many existing toy sets. <br>
 <br>
-To add simpply make a pull request with your/your group's data. 
+To add simply make a pull request with your/your group's data. 
